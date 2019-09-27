@@ -1,3 +1,10 @@
+`2.0.0`
+-------
+
+- **Improvement:** full refactoring
+- **New:** new features is added
+- **Fix:** some fix
+
 `1.3.3`
 -------
 - **Fix:** Grant `Allow installing apps` to Admin and System users (it was only System)
